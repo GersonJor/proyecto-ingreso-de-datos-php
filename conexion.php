@@ -1,7 +1,7 @@
 <?php
 	$database="bdgrupo";
 	$user='root';
-	$password='gerson13579';
+	$password='';
 
 
 try {
